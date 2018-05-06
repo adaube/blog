@@ -1,0 +1,2 @@
+# blog
+Experimenting with Hakyll
